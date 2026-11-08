@@ -32,4 +32,6 @@ main {
 footer {
   text-align: center;
   padding: 20px;
+  background: #e5e7eb;
+  font-size: 14px;
 }
